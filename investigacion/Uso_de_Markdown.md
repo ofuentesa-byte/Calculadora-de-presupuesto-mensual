@@ -50,8 +50,9 @@ En este proyecto de software, Markdown se utilizó para:
 - Integrar la información del proyecto con GitHub para control de versiones.  
 - Permitir que cualquier usuario consulte la documentación sin herramientas adicionales.
 
-##  Referencias
-- Fontela da Luz, G. (s.f.). *Markdown intrínsecamente fascinante: conversión de archivos Markdown a PDF mediante tecnologías web.* Recuperado de [Google Scholar](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Markdown+en+software&oq=markdown+#d=gs_qabs&t=1761763059480&u=%23p%3DvG_X9GiMZnUJ)  
+## Referencias
+- Fontela da Luz, G. (s.f.). *Markdown intrínsecamente fascinante: conversión de archivos Markdown a PDF mediante tecnologías web.* Recuperado de https://dspace.ifrs.edu.br/xmlui/handle/123456789/2136  
 - Gruber, J. (2004). *Markdown Syntax Documentation.* Daring Fireball.  
 - Pressman, R. S. (2010). *Ingeniería del Software: Un enfoque práctico* (7ª ed.). McGraw-Hill.  
-- Sommerville, I. (2011). *Ingeniería del Software* (9ª ed.). Pearson.
+- Sommerville, I. (2011). *Ingeniería del Software* (9ª ed.). Pearson.  
+
